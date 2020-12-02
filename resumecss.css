@@ -1,0 +1,50 @@
+header img {
+	margin: 0 auto;
+	display:block;
+}
+nav ul {
+	margin:0 auto;
+}
+nav li {
+	display:inline;
+	padding: 8px 10px;
+	border-radius:5px;
+	font-size:1.35em;
+}
+nav li:hover {
+	background-color:#075FF6;
+}
+nav a:visited{
+	color: #00138e;
+}
+nav {
+	
+}
+body {
+	margin: 10px 0;
+}
+li {
+	text-align:center;
+}
+nav a {
+	text-decoration:none;
+}
+img {
+	margin: 0 auto;
+	display:block;
+}
+h1 {
+	text-align:center;
+}
+h3 {
+	text-align:center;
+}
+h4 {
+	text-align:center;
+}
+p {
+	text-align:center;
+}
+b {
+	text-align:center;
+}
